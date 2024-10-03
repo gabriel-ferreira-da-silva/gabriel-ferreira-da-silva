@@ -40,7 +40,7 @@ I'm a computer engineering student. Currently looking forward to study and work 
 
 
 
-<div style="display: flex; flex-direction: line">
+<div style="display:flex">
 <div style="display: flex; flex-direction: column; align-items: center;"><p style="margin: 0; font-weight:bold">Nilo</p><a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit;">
 <img src="https://github.com/gabriel-ferreira-da-silva/Nilo/raw/main/doc/presentation.gif?raw=true" 
      alt="Description" 
@@ -49,9 +49,8 @@ I'm a computer engineering student. Currently looking forward to study and work 
 <p style="margin: 0; font-weight:bold">Freegame Searcher</p><a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit;">
 <img src="https://github.com/gabriel-ferreira-da-silva/FreeGameSearcher/blob/main/videos/feat1.gif?raw=true" 
      alt="Description" 
-     style="width: 150px; height: 100px; margin: 20px; margin-top: 0px;box-shadow: 5px 5px 10px #888;"></a></div></div>
-
-<div style="display: flex; flex-direction: line">
+     style="width: 150px; height: 100px; margin: 20px; margin-top: 0px;box-shadow: 5px 5px 10px #888;"></a></div></div> 
+<div style="display: flex;">
 <div style="display: flex; flex-direction: column; align-items: center;">
 <p style="margin: 0; font-weight:bold">GalenoAPI</p><a href="https://github.com/gabriel-ferreira-da-silva/galeno" style="text-decoration: none; color: inherit;">
 <img src="basic-system-functions.png" 
@@ -60,9 +59,18 @@ I'm a computer engineering student. Currently looking forward to study and work 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <p style="margin: 0; font-weight:bold">MetNum</p>
 <a href="https://github.com/gabriel-ferreira-da-silva/metodo-dos-momentos" style="text-decoration: none; color: inherit;"><img src="met.gif" 
-     alt="Description" 
-                                                                                                                               style="width: 150px; height: 100px; margin: 20px; margin-top: 0px;box-shadow: 5px 5px 10px #888;"></a></div>
+     alt="Description" style="width: 150px; height: 100px; margin: 20px; margin-top: 0px;box-shadow: 5px 5px 10px #888;"></a></div>
 </div></div>
+
+
+
+
+
+
+
+
+
+
 
 
 
