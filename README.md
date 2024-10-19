@@ -59,14 +59,16 @@ These are the frameworks i like to work with
 ## <u>Freegame Searcher</u>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Freegame Searcher" width="150" style="margin-right: 20px;">
-    <div><span style="font-size: 16px;">Angular frontend for the Freegame API with search, filter, and responsive interactions.</span></div></div>
+
+    <div><span style="font-size: 16px;">Angular frontend for the Freegame API with search, filter, and responsive interactions.</span></div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Freegame Searcher" width="150" style="margin-right: 20px;"></div>
 
 
 ## <u>Metodos Numericos</u>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" width="150" style="margin-right: 20px;">
     <div>
-        <span style="font-size: 16px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span></div></div>
+        <span style="font-size: 16px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span></div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" width="150" style="margin-right: 20px;">
+    </div>
 
