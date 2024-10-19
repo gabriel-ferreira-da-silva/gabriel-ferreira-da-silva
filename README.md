@@ -47,28 +47,6 @@ These are the frameworks i like to work with
 
 # My projects
 
-
-
-## <u>Nilo</u>
-
-Ecommerce app built with react+Mysql+node.js with several ecommerce functions and responsive UX.
-
-![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true)
-
-## <u>Freegame Searcher</u>
-
-Angular frontend for the freegame API with search, filter and responsive interactions.
-
-![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true)
-
-
-
-## <u>Metodos numericos</u>
-
-python notebook with implementations of numerical methods for electromagnetism problems.
-
-![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true)
-
 ## <u>Nilo</u>
 
 <div style="display: flex;flex-direction:row; align-items: center;">
@@ -92,8 +70,4 @@ python notebook with implementations of numerical methods for electromagnetism p
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" width="150" style="margin-right: 20px;">
     <div>
         <span style="font-size: 16px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span></div></div>
-
-    </div>
-
-</div>
 
