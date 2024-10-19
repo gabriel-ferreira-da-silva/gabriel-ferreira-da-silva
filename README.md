@@ -68,7 +68,6 @@ These are the frameworks i like to work with
                 Angular Frontend interface for the freegame API, built with search, filter, and responsive actions.
             </p>
         </div>
-    </a>
 </div>
 
 
