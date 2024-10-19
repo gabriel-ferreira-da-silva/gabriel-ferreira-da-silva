@@ -59,16 +59,7 @@ These are the frameworks i like to work with
     </a>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center; border: 1px solid white; border-radius: 5px;">
-       	<img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Description" style="height: 50px; width: 80px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
-        
-        <div style="margin-left: 20px;">
-            <h2>FreeGame Searcher</h2>
-            <p>
-                Angular Frontend interface for the freegame API, built with search, filter, and responsive actions.
-            </p>
-        </div>
-</div>
+
 
 
 
