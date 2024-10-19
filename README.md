@@ -69,7 +69,26 @@ python notebook with implementations of numerical methods for electromagnetism p
 
 ![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true)
 
-## 
+## <u>Nilo</u>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" width="150" style="margin-right: 20px;">
+    <span style="font-size: 16px;">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</span>
+</div>
+
+## <u>Freegame Searcher</u>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Freegame Searcher" width="150" style="margin-right: 20px;">
+    <span style="font-size: 16px;">Angular frontend for the Freegame API with search, filter, and responsive interactions.</span>
+</div>
+
+## <u>Metodos Numericos</u>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" width="150" style="margin-right: 20px;">
+    <span style="font-size: 16px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span>
+</div>
 
 
 
