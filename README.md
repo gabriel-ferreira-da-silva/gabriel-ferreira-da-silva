@@ -49,30 +49,32 @@ These are the frameworks i like to work with
 
 ## <u>Nilo</u>
 
-<div style="display: flex;flex-direction:row; align-items: center;">
+<div style="display: flex;flex-direction:row; justify-content:space-between">
     <div>
-        <span style="font-size: 24px;">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</span>
+        <span style="font-size: 24px; margin:20px">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</span>
     </div>
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;"></div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;border-radius: 5px"></div>
+
 
 ## <u>Galeno</u>
 
-<div style="display: flex;flex-direction:row; align-items: center;">
+<div style="display: flex;flex-direction:row; align-items: center;justify-content:space-between">
     <div>
-        <span style="font-size: 24px;">API made with python flask + mongoDB with react interface to compute diagnosis of diseases using machine learning and AI models.</span>
+        <span style="font-size: 24px;margin:20px">API made with python flask + mongoDB with react interface to compute diagnosis of diseases using machine learning and AI models.</span>
     </div>
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/galeno.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;"></div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/galeno.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;border-radius: 5px"></div>
+
 
 
 
 ## <u>Freegame Searcher</u>
 
-<div style="display: flex; align-items: center;">
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between">
     <div>
         <span style="font-size: 24px;">Frontend interface built with angular for the freegame API for listing, searching and read games info</span>
     </div>
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Metodos Numericos"  style="width:150px;height:100px;margin-right: 20px;"></div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Metodos Numericos"  style="width:150px;height:100px;margin-right: 20px; border-radius: 5px"></div>
+
 
 
 ## <u>Metodos Numericos</u>
