@@ -47,10 +47,10 @@ These are the frameworks i like to work with
 
 ### some projects...
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <div>
-            <img src="freegame.gif" alt="Description" style="height: 150px; width: 210px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
+            <img src="freegame.gif" alt="Description" style="height: 100px; width: 110px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
         </div>
         <div style="margin-left: 20px;">
             <h2>FreeGame Searcher</h2>
@@ -64,7 +64,7 @@ These are the frameworks i like to work with
 <div style="display: flex; flex-direction: row; align-items: center; border: 1px solid white; border-radius: 5px;">
     <a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <div>
-            <img src="freegame.gif" alt="Description" style="height: 150px; width: 210px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
+            <img src="freegame.gif" alt="Description" style="height: 50px; width: 80px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
         </div>
         <div style="margin-left: 20px;">
             <h2>FreeGame Searcher</h2>
@@ -80,7 +80,7 @@ These are the frameworks i like to work with
 <div style="display: flex; flex-direction: row; align-items: center; border: 1px solid white; border-radius: 5px;">
     <a href="https://github.com/gabriel-ferreira-da-silva/metodo-dos-momentos" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <div>
-            <img src="met.gif" alt="Description" style="height: 150px; width: 210px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
+            <img src="met.gif" alt="Description" style="height: 40px; width: 40px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
         </div>
         <div style="margin-left: 20px;">
             <h2>Metodos Numericos</h2>
@@ -90,6 +90,7 @@ These are the frameworks i like to work with
         </div>
     </a>
 </div>
+
 
 
 
