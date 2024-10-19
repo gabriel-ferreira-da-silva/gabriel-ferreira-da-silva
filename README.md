@@ -55,6 +55,15 @@ These are the frameworks i like to work with
     </div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;"></div>
 
+## <u>Galeno</u>
+
+<div style="display: flex;flex-direction:row; align-items: center;">
+    <div>
+        <span style="font-size: 24px;">API made with python flask + mongoDB with react interface to compute diagnosis of diseases using machine learning and AI models.</span>
+    </div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/galeno.gif?raw=true" alt="Nilo app" style="width:150px;height:100px;margin-right: 20px;"></div>
+
+
 
 ## <u>Freegame Searcher</u>
 
@@ -72,4 +81,3 @@ These are the frameworks i like to work with
     <div>
         <span style="font-size: 24px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span></div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" style="width:150px; height:100px;margin-right: 20px;"></div>
-
