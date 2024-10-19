@@ -45,50 +45,31 @@ These are the frameworks i like to work with
      <img src="docker.png" alt="Description" style="width:100px; height: 100px;margin: 20px;  box-shadow: 5px 5px 10px \#888;">
 
 
-### some projects...
-
-<div style="display: flex; flex-direction: row; align-items: center;">
-    <a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit; display: flex; flex-direction:row; align-items: center;">
-        <div style="margin-left: 20px;">
-            <h2>FreeGame Searcher</h2>
-            <p>
-                Angular Frontend interface for the freegame API, built with search, filter, and responsive actions.
-            </p>
-        </div>
-    </a>
-</div>
+# My projects
 
 
 
+## <u>Nilo</u>
 
+Ecommerce app built with react+Mysql+node.js with several ecommerce functions and responsive UX.
 
-<div style="display: flex; flex-direction: row; align-items: center; border: 1px solid white; border-radius: 5px;">
-    <a href="https://github.com/gabriel-ferreira-da-silva/metodo-dos-momentos" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-        <div>
-            <img src="met.gif" alt="Description" style="height: 40px; width: 40px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
-        </div>
-        <div style="margin-left: 20px;">
-            <h2>Metodos Numericos</h2>
-            <p>
-                python notebook implementation of numerical methods for electromagnetic problems.
-            </p>
-        </div>
-    </a>
-</div>
+![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true)
+
+## <u>Freegame Searcher</u>
+
+Angular frontend for the freegame API with search, filter and responsive interactions.
+
+![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true)
 
 
 
+## <u>Metodos numericos</u>
 
+python notebook with implementations of numerical methods for electromagnetism problems.
 
+![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true)
 
-
-​	
-
-
-
-
-
-
+## 
 
 
 
