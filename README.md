@@ -50,11 +50,10 @@ These are the frameworks i like to work with
 ## <u>Nilo</u>
 
 <div style="display: flex;flex-direction:row; align-items: center;">
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" width="150" style="margin-right: 20px;">
     <div>
         <span style="font-size: 16px;">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</span>
     </div>
-</div>
+    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" width="150" style="margin-right: 20px;"></div>
 
 
 ## <u>Freegame Searcher</u>
