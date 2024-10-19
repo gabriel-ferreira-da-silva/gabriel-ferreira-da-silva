@@ -72,13 +72,10 @@ python notebook with implementations of numerical methods for electromagnetism p
 ## <u>Nilo</u>
 
 <div style="display: flex; flex-direction:row; align-items: center;">
-    <div>
         <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" width="150" style="margin-right: 20px;">
-    </div>
-    <div>
-        <p style="font-size: 16px;">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</p>
-    </div>
     
+        <p style="font-size: 16px;">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</p>
+     
 </div>
 
 ## <u>Freegame Searcher</u>
