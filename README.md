@@ -60,8 +60,9 @@ These are the frameworks i like to work with
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: center; border: 1px solid white; border-radius: 5px;">
-    <a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+    <a href="https://github.com/gabriel-ferreira-da-silva/Nilo" style="text-decoration: none; color: inherit; display: flex;flex-direction:row; align-items: center;">
             <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Description" style="height: 50px; width: 80px; margin: 10px; margin-left: 20px; border: 1px solid white; border-radius: 5px;">
+        
         <div style="margin-left: 20px;">
             <h2>FreeGame Searcher</h2>
             <p>
