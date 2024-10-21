@@ -4,7 +4,7 @@ hi 👋,
 
 I'm a computer engineering student. Currently looking forward to study and work on software engineering, fullstack web applications, machine learning and numerical computation.
 
-
+![](https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/galeno.gif?raw=true)
 
 ### programing languages
 
