@@ -51,7 +51,7 @@ These are the frameworks i like to work with
 
 <div style="display: flex;flex-direction:column; align-items: center;justify-content:space-between">
     <div>
-        <span style="font-size: 24px;margin:20px">API made with python flask + mongoDB with react interface to compute diagnosis of diseases using machine learning and AI models.</span>
+        <span style="font-size: 24px;margin:20px">Galeno is an API developed using Python Flask and MongoDB, designed to provide diagnostic insights for various diseases. It features a React interface that leverages machine learning and AI models to analyze patient data and deliver accurate predictions and recommendations.</span>
     </div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/galeno.gif?raw=true" alt="Nilo app" style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div></div>
 
@@ -61,7 +61,7 @@ These are the frameworks i like to work with
 
 <div style="display: flex;flex-direction:column; justify-content:space-between">
     <div>
-        <span style="font-size: 24px; margin:20px">Ecommerce app built with React, MySQL, and Node.js with several ecommerce functions and a responsive UX.</span>
+        <span style="font-size: 24px; margin:20px">Nilo is a comprehensive e-commerce application built with React, MySQL, and Node.js. It includes a range of functionalities for online shopping, such as product listing, user authentication, and a responsive user experience (UX) that adapts seamlessly across devices.</span>
     </div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
 
@@ -69,7 +69,7 @@ These are the frameworks i like to work with
 
 <div style="display: flex; flex-direction:column">
     <div>
-        <span style="font-size: 24px;">Frontend interface built with angular for the freegame API for listing, searching and read games info</span>
+        <span style="font-size: 24px;">Freegame Searcher is a user-friendly frontend interface developed with Angular. It connects to the Freegame API, allowing users to easily list, search, and read detailed information about various games, enhancing the gaming discovery experience.</span>
     </div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Metodos Numericos"  style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
 
@@ -80,6 +80,6 @@ These are the frameworks i like to work with
 
 <div style="display: flex; flex-direction:column">
     <div>
-        <span style="font-size: 24px;">Python notebook with implementations of numerical methods for electromagnetism problems.</span></div>
+        <span style="font-size: 24px;">Métodos Numéricos is a Python notebook that implements various numerical methods to solve problems in electromagnetism. This project serves as a practical resource for students and professionals looking to understand and apply numerical techniques to real-world scenarios.</span></div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
 
