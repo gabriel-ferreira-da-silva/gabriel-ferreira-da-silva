@@ -65,7 +65,7 @@ These are the frameworks i like to work with
     </div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/niloapp.gif?raw=true" alt="Nilo app" style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
 
-## <u>Freegame Searcher</u>
+## <u>Thoth</u>
 
 <div style="display: flex; flex-direction:column">
     <div>
