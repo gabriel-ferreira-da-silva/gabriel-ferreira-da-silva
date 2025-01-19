@@ -69,9 +69,10 @@ These are the frameworks i like to work with
 
 <div style="display: flex; flex-direction:column">
     <div>
-        <span style="font-size: 24px;">Freegame Searcher is a user-friendly frontend interface developed with Angular. It connects to the Freegame API, allowing users to easily list, search, and read detailed information about various games, enhancing the gaming discovery experience.</span>
+        <span style="font-size: 24px;">Thoth includes implementations of machine learning algorithms, such as the multilayer perceptron. As a modular framework, it provides classes with a broad range of configurable parameters, enabling a customizable solution for various problems.</span>
     </div>
-    <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/freegame.gif?raw=true" alt="Metodos Numericos"  style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
+    <img src="https://raw.githubusercontent.com/gabriel-ferreira-da-silva/thoth/2e2f78efacd108601acd7cf69a7969321deb4038/docs/gif.gif" alt="thoth"  style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
+
 
 
 
@@ -82,4 +83,3 @@ These are the frameworks i like to work with
     <div>
         <span style="font-size: 24px;">Métodos Numéricos is a Python notebook that implements various numerical methods to solve problems in electromagnetism. This project serves as a practical resource for students and professionals looking to understand and apply numerical techniques to real-world scenarios.</span></div>
     <img src="https://github.com/gabriel-ferreira-da-silva/gabriel-ferreira-da-silva/blob/main/met.gif?raw=true" alt="Metodos Numericos" style="height:300px;width:500px;margin-right: 20px;border-radius: 5px"></div>
-
